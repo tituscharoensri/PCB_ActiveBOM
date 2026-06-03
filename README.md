@@ -1,2 +1,2 @@
 # PCB_ActiveBOM
-Active BOM of all PCB components
+Active BOM of all PCB components in Lab Stock
